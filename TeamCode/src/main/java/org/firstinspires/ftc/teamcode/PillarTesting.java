@@ -239,10 +239,7 @@ public class PillarTesting extends LinearOpMode {
             setLeftPower(0);
             setRightPower(0);
             sleep(50);
-            setLeftPower(0);
-            setRightPower(0);
-            sleep(50);
-
+            
             //drives toward pillar
             setLeftPower(.2);
             setRightPower(.2);
