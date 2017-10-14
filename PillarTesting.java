@@ -160,7 +160,11 @@ public class PillarTesting extends LinearOpMode {
                 }
                 sleep(50);
             }
+<<<<<<< HEAD
             //test comment
+=======
+
+>>>>>>> de8ee36fda2fdcb4e73f8d609442df462d53c7f2
             arm.setPosition(.85);
             sleep(1800);
 
@@ -235,13 +239,19 @@ public class PillarTesting extends LinearOpMode {
             setRightPower(-.5);
 
             sleep(1000);
+<<<<<<< HEAD
             //test
+=======
+>>>>>>> de8ee36fda2fdcb4e73f8d609442df462d53c7f2
 
             setLeftPower(0);
             setRightPower(0);
             sleep(50);
 
+<<<<<<< HEAD
 
+=======
+>>>>>>> de8ee36fda2fdcb4e73f8d609442df462d53c7f2
             //drives toward pillar
             setLeftPower(.2);
             setRightPower(.2);
